@@ -1,9 +1,9 @@
 # -*- coding:UTF-8 -*-
 
 """
-Author : zhaojie z00574552
+Author : zhaojie 
 Created at: 2021-04-23
-Copyright (c) 2008—2021 Huawei Technologies Co., Ltd. All rights reserved.
+Copyright (c) 2008—2021 Free Technologies Co., Ltd. All rights reserved.
 """
 
 import sys
